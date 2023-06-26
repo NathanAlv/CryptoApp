@@ -1,1 +1,1 @@
-Para fazer esse projeto utilizamos create-react-app
+link vercel: https://vercel.com/nathanalv/crypto-app 
